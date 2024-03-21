@@ -1,0 +1,5 @@
+aiohttp==3.9.3
+loguru==0.7.2
+fake-useragent==1.4.0
+web3==6.13.0
+aiofiles==23.2.1
